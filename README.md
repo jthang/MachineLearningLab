@@ -1,4 +1,4 @@
-ml_lab
+Machine Learning Lab
 ======
 
-Experiments for Machine Learning
+Repo for my Machine Learning experiments
